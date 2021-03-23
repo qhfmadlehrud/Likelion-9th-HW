@@ -1,7 +1,6 @@
-# Likelion-9th-HW
 # 🦁 멋쟁이 사자처럼 9기 at 상명대학교 🦁
 
-## ㅇㅇㅇ팀 과제 제출 레포
+## 경은팀 과제 제출 레포
 
 ---
 
@@ -77,7 +76,7 @@ $ git push origin <브랜치명>
 
 ## 다른 팀 레포 놀러가기 🏄‍♂️
 
-**경은팀**
+[경은팀](https://github.com/GyeongEun-Kim/Likelion-9th-HW)
 
 **어진팀**
 
