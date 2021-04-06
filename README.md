@@ -10,37 +10,6 @@
 
 ---
 
-
-
-## 과제 제출 세팅하기 (최초 1회만)
-
-
-
-```bash
-$ git checkout -b <브랜치명>
-$ git push origin <브랜치명>
-```
-
-checkout : 사용할  브랜치 지정 
-
-checkout -b : 브랜치 생성과 체크아웃을 동시에! 
-
-
-
-```bash
-$ git push origin <브랜치명>
-```
-
-origin(원격저장소)에 <브랜치명> 브랜치를 푸쉬
-
-
-
-![Untitled](https://user-images.githubusercontent.com/62318430/112156918-0aa48000-8c2a-11eb-97e2-389029f76028.png)
-
-
-클릭 후 자신의 브랜치가 잘 추가 되었는지 확인 ❤
-
----
 ## 과제 제출하기 ‼‼‼‼‼‼
 
 
